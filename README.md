@@ -25,8 +25,8 @@ the  simple example like :
 })(document,jQuery,angular);
 ```
 
-The module how to deal with no permission condition that you can code by yourself.I have already mark them in module.
+You can code by yourself about the module for the condition without permission. They have already been marked in the module.  
 
 Defaut action is redirect to '/unauthorized' page. 
 
-Chinese people can visit my blog: http://my.oschina.net/blogshi/blog/300595
+Chinese friends plz see my blog: http://my.oschina.net/blogshi/blog/300595
